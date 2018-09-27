@@ -16,6 +16,7 @@ import java.util.ArrayList;
 public class ListCheckboxDialog extends DialogFragment {
 
     public ListCheckboxDialog() {
+        
     }
 
     @NonNull
